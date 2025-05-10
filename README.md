@@ -31,8 +31,8 @@ Ensure you have Node.js and npm installed on your machine..
 
 Installation:-
 
-1.Clone the repository: git clone https://github.com/your-username/todo-list-app.git
-
+1.Clone the repository: git clone https://github.com/junaidkhan1723/Todo-List
+\
 2.Navigate into the project folder: cd todo-list-app
 
 3.Install dependencies: npm install
