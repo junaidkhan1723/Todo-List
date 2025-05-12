@@ -4,7 +4,7 @@
 
 A simple and responsive To-Do List app built with React. This app allows you to add tasks, mark them as completed, and delete them. The tasks are saved in local storage, ensuring they persist even after page reloads.
 
-🌍 Features
+<h3>🌍 Features</h3>
 Add Tasks: Easily add new tasks to your to-do list.
 
 Mark Tasks as Complete: Check off tasks when they are completed.
@@ -15,7 +15,7 @@ Persistence: Tasks are stored in local storage, so they remain even after you re
 
 Responsive Design: The app is fully responsive, working seamlessly on both desktop and mobile devices.
 
-🛠️ Tech Stack
+<h3>🛠️ Tech Stack</h3>
 React: JavaScript library for building user interfaces.
 
 Local Storage: Used for saving tasks and retaining them across sessions.
@@ -24,7 +24,7 @@ HTML & CSS: For structuring and styling the app.
 
 JavaScript: For the app logic, interactivity, and state management.
 
-🖼️ Screenshots
+<h3>🖼️ Screenshots</h3>
 ![image](https://github.com/user-attachments/assets/50b77b20-7c97-4956-9ef9-55ea55d29b20)
 
 
