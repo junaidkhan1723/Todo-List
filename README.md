@@ -1,5 +1,5 @@
 <h1>To-Do List App</h1>
-<h2>Author - 
+<h2>🙋Author - 
   <a href="#">junaidkhan1723</a></h2>
 
 <strong>A simple and responsive To-Do List app built with React. This app allows you to add tasks, mark them as completed, and delete them. The tasks are saved in local storage, ensuring they persist even after page reloads.</strong>
