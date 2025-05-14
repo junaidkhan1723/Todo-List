@@ -1,7 +1,6 @@
 import React from 'react'
 
 function Clock() {
-
     const time = ()=>{
   
         let d = new Date();
