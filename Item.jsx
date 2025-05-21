@@ -4,8 +4,6 @@ function Item({ update, index, val, del }) {
   const [isEditing, setEditing] = useState(false);
   const [newItem, setNewItem] = useState("");
 
-  
-
   return (
     <div className="item">
       { !isEditing ? (
@@ -35,8 +33,7 @@ function Item({ update, index, val, del }) {
 </svg>
 
 </button>
-          </div>
-          
+          </div>          
         </>
       ) : (
         <div>
@@ -53,8 +50,7 @@ function Item({ update, index, val, del }) {
             Update
           </button>
           <button style={{marginLeft:10, padding:5, backgroundColor:"black"}} onClick={() => setEditing(false)}>X</button>
-        </div>
-        
+        </div>        
       )}
     </div>
   );
