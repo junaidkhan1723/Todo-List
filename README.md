@@ -25,6 +25,7 @@ HTML & CSS: For structuring and styling the app.
 JavaScript: For the app logic, interactivity, and state management.
 
 <h3>🖼️ Screenshots</h3>
+
 ![image](https://github.com/user-attachments/assets/50b77b20-7c97-4956-9ef9-55ea55d29b20)
 
 
